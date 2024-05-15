@@ -1,4 +1,11 @@
 # basic python_alarm_clock_tkinter
+
+![Screenshot 2024-05-15 180714](https://github.com/Mushabbarahmed/python_alarm_clock_tkinter/assets/90035278/8569abfe-9456-4ff9-a0db-9a98ba9ffc8a)
+![Screenshot 2024-05-15 180531](https://github.com/Mushabbarahmed/python_alarm_clock_tkinter/assets/90035278/b1dfd4e0-a9cf-4697-b536-42f0292f2346)
+
+
+
+
 This Python script is an alarm clock application with a graphical user interface (GUI) built using Tkinter. It allows users to set an alarm for a specific time, select AM/PM, and choose snooze options.
 
 
